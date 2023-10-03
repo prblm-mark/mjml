@@ -139,7 +139,7 @@ const plugin: Plugin<PluginOptions> = (editor, opt = {}) => {
     hideSelector: true,
     useXmlParser: false,
     useCustomTheme: true,
-    columnsPadding: '10px 0',
+    columnsPadding: '14px 0',
     i18n: {},
     fonts: {},
     // Export 'mjml', 'html' or both (leave empty) TODO
